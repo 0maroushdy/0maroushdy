@@ -13,8 +13,10 @@
   <a href="https://omaroushdy.com"><img src="https://img.shields.io/badge/Website-omaroushdy.com-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/0mar-ma"><img src="https://img.shields.io/badge/LinkedIn-0mar--ma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
   <a href="mailto:omar.roushdy@outlook.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Email" /></a>
+  <!-- LeetCode & Codeforces badges (hidden for now)
   <a href="https://leetcode.com/u/0maroushdy"><img src="https://img.shields.io/badge/LeetCode-0maroushdy-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/omarush"><img src="https://img.shields.io/badge/Codeforces-omarush-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27" alt="Codeforces" /></a>
+  -->
 </p>
 
 <br />
@@ -26,29 +28,29 @@
 
 I'm a **product engineer** from Alexandria, Egypt, and I like owning a product from the first commit to the app store listing. I started out writing the frontend for Blokkah, built **Ayid AI** for real estate end to end, and today I run the company as General Manager while leading product delivery for clients at ROAR KSA.
 
-- 🏗️ **General Manager @ [Blokkah](https://blokkah.app)**: real estate tech in Saudi Arabia (web, iOS, Android)
-- 🧭 **Product Owner @ ROAR KSA**: ~39 products across delivery, ~10 launched, a team of ~20
-- 🎓 **Computer & Communications Engineering @ Alexandria University**: class of 2027
-- 🤖 **Computer vision roots**: trained YOLO models for an award-winning underwater ROV
-- 💬 **Ask me about** React & Next.js, shipping MVPs, or turning a client brief into a roadmap
-- 📫 **Reach me at** omar.roushdy@outlook.com
-- ⚡ **Fun fact:** I won 1st place in the Alexandria Math Olympiad in 2018
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%237aa2f7" width="18" align="center" alt="" /> **General Manager @ [Blokkah](https://blokkah.app)**: real estate tech in Saudi Arabia (web, iOS, Android)
+- <img src="https://api.iconify.design/lucide/compass.svg?color=%237aa2f7" width="18" align="center" alt="" /> **Product Owner @ ROAR KSA**: ~39 products across delivery, ~10 launched, a team of ~20
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237aa2f7" width="18" align="center" alt="" /> **Computer & Communications Engineering @ Alexandria University**
+- <img src="https://api.iconify.design/lucide/eye.svg?color=%237aa2f7" width="18" align="center" alt="" /> **Computer vision roots**: trained YOLO models for an award-winning underwater ROV
+- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%237aa2f7" width="18" align="center" alt="" /> **Ask me about** React & Next.js, shipping MVPs, or turning a client brief into a roadmap
+- <img src="https://api.iconify.design/lucide/mail.svg?color=%237aa2f7" width="18" align="center" alt="" /> **Reach me at** omar.roushdy@outlook.com
+- <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%237aa2f7" width="18" align="center" alt="" /> **Fun fact:** I won 1st place in the Egypt Math Olympiad (Alex-patch) in 2018
 
 <br clear="right" />
 
 <!-- ===================== PRODUCTS ===================== -->
-## 🚀 What I'm building
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%237aa2f7" width="24" align="center" alt="" /> What I'm building
 
 | | Product | What it is | My role |
 |:-:|---|---|---|
-| 🏠 | **[Blokkah](https://blokkah.app)** | Real estate platform for property search and listings, with apps on the App Store & Google Play | Built the web frontend; now lead the backend, mobile & dashboard teams as GM |
-| 🤖 | **Ayid AI** | Full-stack AI solution for real estate | Designed and built it myself, frontend and backend |
-| 📖 | **[Khatem](https://khatem.sa)** | Quran reading for individuals and groups, on web, iOS & Android | Built the web frontend; directed backend & mobile through launch |
-| 🌐 | **[Blokktech](https://blokktech.com)** | Blokktech's company website | Coded the whole site |
-| 🛒 | **[Taled](https://taled.net)** | E-commerce store on Salla | Built the storefront and improved its search rankings |
+| <img src="https://api.iconify.design/lucide/building.svg?color=%237aa2f7" width="22" alt="" /> | **[Blokkah](https://blokkah.app)** | Real estate platform for property search and listings, with apps on the App Store & Google Play | Built the web frontend; now lead the backend, mobile & dashboard teams as GM |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=%237aa2f7" width="22" alt="" /> | **Ayid AI** | Full-stack AI solution for real estate | Designed and built it myself, frontend and backend |
+| <img src="https://api.iconify.design/lucide/book-open.svg?color=%237aa2f7" width="22" alt="" /> | **[Khatem](https://khatem.sa)** | Quran reading for individuals and groups, on web, iOS & Android | Built the web frontend; directed backend & mobile through launch |
+| <img src="https://api.iconify.design/lucide/globe.svg?color=%237aa2f7" width="22" alt="" /> | **[Blokktech](https://blokktech.com)** | Blokktech's company website | Coded the whole site |
+| <img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%237aa2f7" width="22" alt="" /> | **[Taled](https://taled.net)** | E-commerce store on Salla | Built the storefront and improved its search rankings |
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%237aa2f7" width="24" align="center" alt="" /> Tech stack
 
 <table>
   <tr>
@@ -93,7 +95,7 @@ I'm a **product engineer** from Alexandria, Egypt, and I like owning a product f
 <tr>
 <td valign="top" width="50%">
 
-### 🏆 Achievements
+### <img src="https://api.iconify.design/lucide/trophy.svg?color=%237aa2f7" width="20" align="center" alt="" /> Achievements
 
 - **1st Place, ROV Senior Category**: Global Robotics Challenge (Go Dive Derby) with Team Torpedo ROV. I was co-pilot, built the control GUI, and trained YOLO models for real-time underwater vision.
 - **Best Software Project & Team Leader Awards**: Digital Egypt Pioneers Initiative (DEPI)
@@ -102,7 +104,7 @@ I'm a **product engineer** from Alexandria, Egypt, and I like owning a product f
 </td>
 <td valign="top" width="50%">
 
-### 🌍 Community
+### <img src="https://api.iconify.design/lucide/users.svg?color=%237aa2f7" width="20" align="center" alt="" /> Community
 
 - **Technical Head**, NASA Space Apps Alexandria (2025–26)
 - **Technical Coordinator & Frontend Instructor**, AAST (2026): taught frontend in a web, mobile & soft-skills bootcamp built around NASA Space Apps challenges
@@ -113,7 +115,7 @@ I'm a **product engineer** from Alexandria, Egypt, and I like owning a product f
 </table>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub activity
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%237aa2f7" width="24" align="center" alt="" /> GitHub activity
 
 <p align="center">
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
@@ -123,16 +125,17 @@ I'm a **product engineer** from Alexandria, Egypt, and I like owning a product f
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
 </p>
 
-<!-- ===================== PROBLEM SOLVING ===================== -->
-## 🧩 Problem solving
+<!-- PROBLEM SOLVING section (hidden for now, delete this line and the closing marker below to show it)
+## <img src="https://api.iconify.design/lucide/puzzle.svg?color=%237aa2f7" width="24" align="center" alt="" /> Problem solving
 
 <p align="center">
   <a href="https://leetcode.com/u/0maroushdy"><img src="https://leetcard.jacoblin.cool/0maroushdy?theme=dark&ext=heatmap" width="49%" align="top" alt="LeetCode stats" /></a>
   <a href="https://codeforces.com/profile/omarush"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=omarush&theme=tokyonight&show_icons=true" width="49%" align="top" alt="Codeforces stats" /></a>
 </p>
+-->
 
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Contributions
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## <img src="https://api.iconify.design/lucide/git-branch.svg?color=%237aa2f7" width="24" align="center" alt="" /> Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0maroushdy/0maroushdy/output/snake-dark.svg" />
